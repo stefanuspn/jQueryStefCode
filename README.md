@@ -501,5 +501,5 @@ $(document).ready(function(){
             </tr>
         </tbody>
     </table>
-    <p style="text-align: justify;">Silahkan dicoba, jangan lupa dilike dan dishare ya.. Terima kasih telah berkunjung ke harviacode.com.</p>
+    <p style="text-align: justify;">Silahkan dicoba, Terima Kasih Telah Berkunjung :D.</p>
     <p>&nbsp;</p>
