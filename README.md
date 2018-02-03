@@ -35,7 +35,7 @@ Siapkan terlebih dahulu file-file yang sudah disebutkan diatas yaitu jquery-3.2.
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 
-<script src="asset/js/jQueryStefCodePartII.js.js"></script>
+<script src="asset/js/jQueryStefCodePartII.js"></script>
 
 <script>
 $(document).ready(function(){
