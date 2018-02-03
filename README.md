@@ -6,11 +6,10 @@ Apa Itu jQueryStefCode Part II.js sebuah plugin jquery yang sederhana untuk mend
 Plugin ini di buat oleh Stefanus Prasetyo Nugroho.
 
 ## Instalasi
-Untuk bisa memakai plugin ini anda membutuhkan jquery terlebih dahulu bebas versi berapa aja, dan anda bisa menginstall jQueryStefPlaySound.js lewat NPM jika komputer anda sudah terpasang node.js dengan cara ketik di command line :<br>
+Untuk bisa memakai plugin ini anda membutuhkan jquery terlebih dahulu bebas versi berapa aja<br>
 
 
-
-Atau anda juga bisa menggunakan seperti ini menggunakan tag script biasa, contoh:
+anda  bisa menggunakan seperti ini menggunakan tag script biasa, contoh:
 
 
 ```javascript
